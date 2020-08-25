@@ -8,7 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is not a real project");
-            Console.WriteLine("This should do");
+            
         }
     }
 }
